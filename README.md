@@ -28,8 +28,8 @@ Calculation and solve of equations are based on my previous project [**String Ca
 
 	
 ## Some sample test cases..(on live run, header of tables will be arranged properly.)
+**1st Example.**
 
-**1.
 Enter the equation(in terms of x):
 5x^4-50x+43
 Is your equation contain any trignometric function like sin(), cos() etc?(y/n):
@@ -69,7 +69,7 @@ Correct upto no. of digits after decimal pt:
 
 Root between 1 & 2 is: 1.7049191455104726...(correct upto 6 digits).
 
-**2
+**2nd Example:**
 
 Enter the equation(in terms of x):
 x^2-10x+21
