@@ -1,23 +1,32 @@
 # RegularFalsi
 Java program to find Roots of any mathematical equation using RegularFalsi  method. It is a numerical method to find roots.
-##Getting Started
+
+## Getting Started
+
 You can download this project and run it into eclipse.
 Calculation and solve of equations are based on my previous project [**String Calculator**](https://github.com/bablushaw23/StringCalculator). so it also supports huge number of functions. as well. 
-###Prerequisites
-Needs are:
+
+## Prerequisites
+
+**Needs are**:
+
  A working eclipse application with UTF-8(unicode) editor settings is best.(Reasons written on Alternative section).
  You can tune your text editor settings by going to window(on toolbar of eclipse)> preferences > General(on left) > content Types > Texts(under content types on right side)> (select it by single click on Text) > (At bottom of form you will find Default encoding: )> ( write: UTF-8 inside textbox) > (click <Apply and close> button).
  
- Alternative:
+ **Alternative**:
+ 
    Java compiler- To compile source code. But it may not run because i used (√, π) instead of their unicode characters. so, directly     compiling into cmd, terminal, powershell may give error.
    I have also provided .class files to just run and check. For this run: **RegularFalsiTester.class 
 
-###Open the project in eclipse
+## Open the project in eclipse
+
 1. Unzip(if zipped) the downloaded project.
-2. Under file(in toolbox) > Open Projects from File System... >(click on <Directory> button) > (Redirect to unzipped folder) > ( <Select folder> button ) > (click on Finish) > 
+2. Under file(in toolbox) > Open Projects from File System... >(click on <Directory> button) > (Redirect to unzipped folder) > 
+	( <Select folder> button ) > (click on Finish) > 
 3. Run **RegularFalsiTester
 
-### Some sample tests..(on live run, header of tables will be arranged properly. It is not shown in)
+## Some sample tests..(on live run, header of tables will be arranged properly.)
+
 **1.**
 Enter the equation(in terms of x):
 5x^4-50x+43
