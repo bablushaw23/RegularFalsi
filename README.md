@@ -23,9 +23,9 @@ Calculation and solve of equations are based on my previous project [**String Ca
 1. Unzip(if zipped) the downloaded project.
 2. Under file(in toolbox) > Open Projects from File System... >(click on <Directory> button) > (Redirect to unzipped folder) > 
 	( <Select folder> button ) > (click on Finish) > 
-3. Run **RegularFalsiTester**
-	
-## Some sample tests..(on live run, header of tables will be arranged properly.)
+3. Run RegularFalsiTester
+
+## Some sample test cases..(on live run, header of tables will be arranged properly.)
 
 **1.**
 Enter the equation(in terms of x):
