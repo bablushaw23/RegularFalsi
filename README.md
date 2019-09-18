@@ -25,6 +25,9 @@ Calculation and solve of equations are based on my previous project [**String Ca
 	( <Select folder> button ) > (click on Finish) > 
 3. Run RegularFalsiTester
 
+## Open the project in eclipse
+
+
 ## Some sample test cases..(on live run, header of tables will be arranged properly.)
 
 **1.**
