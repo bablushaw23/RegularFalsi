@@ -25,10 +25,11 @@ Calculation and solve of equations are based on my previous project [**String Ca
 	( <Select folder> button ) > (click on Finish)
 	
 3. Run **RegularFalsiTester
+
 	
 ## Some sample test cases..(on live run, header of tables will be arranged properly.)
 
-**1.**
+**1.
 Enter the equation(in terms of x):
 5x^4-50x+43
 Is your equation contain any trignometric function like sin(), cos() etc?(y/n):
